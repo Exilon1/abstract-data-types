@@ -1,0 +1,5 @@
+ParentList
+
+1) В LinkedList необходим явный конструктор.
+
+2) В TwoWayList необходим метод get_left_status().
