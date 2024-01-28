@@ -32,6 +32,9 @@ public class PowerSet extends HashTable {
     return -1;
   }
 
+  public int getPutToSetStatus() {
+    return putToSetStatus;
+  }
 }
 
 class HashTable {
